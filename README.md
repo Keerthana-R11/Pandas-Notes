@@ -2,7 +2,7 @@
 "Comprehensive notes and examples on Python Pandas for beginners and data enthusiasts."
 
 1)README.md
-# 🐼 Pandas Notes
+# 🐼Pandas Notes
 
 This repository contains my **Pandas Jupyter Notebook notes**.  
 It covers basics to advanced topics with clear examples.
@@ -13,7 +13,7 @@ It covers basics to advanced topics with clear examples.
 
 ### 🔹 View Online
 - Click the `pandas.ipynb` file on GitHub.  
-- Notebook will open directly in your browser ✅.
+- Notebook will open directly in your browser.
 
 ### 🔹 Run Locally
 1. Clone this repo:
@@ -28,7 +28,7 @@ pip install pandas jupyter
 
 jupyter notebook
 
-4.Open pandas.ipynb and explore! 🎯
+4.Open pandas.ipynb and explore!🎯
 
 📁Files
 
@@ -36,5 +36,5 @@ PANDAS.ipynb → main notebook
 
 📜License
 
-This project is licensed under the [MIT License](LICENSE) – see the LICENSE file for details. 💖
+This project is licensed under the [MIT License](LICENSE) – see the LICENSE file for details.
 

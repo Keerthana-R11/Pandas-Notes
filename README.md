@@ -28,7 +28,7 @@ pip install pandas jupyter
 
 jupyter notebook
 
-4.Open pandas.ipynb and explore!🎯
+4.Open pandas.ipynb and explore!
 
 📁Files
 

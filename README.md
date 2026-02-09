@@ -12,7 +12,7 @@ It covers basics to advanced topics with clear examples.
 ## 🚀 How to Use
 
 ### 🔹 View Online
-- Click the `pandas.ipynb` file on GitHub.  
+- Click the `https://github.com/Keerthana-R11/Pandas-Notes/commit/becfee5eb43bd21112d7903df6819772604e6b3b` file on GitHub.  
 - Notebook will open directly in your browser.
 
 ### 🔹 Run Locally

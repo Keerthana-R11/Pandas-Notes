@@ -33,6 +33,7 @@ jupyter notebook
 📁Files
 
 PANDAS.ipynb → main notebook
+PANDAS.ipynb
 
 📜License
 

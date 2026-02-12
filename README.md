@@ -2,7 +2,7 @@
 "Comprehensive notes and examples on Python Pandas for beginners and data enthusiasts."
 
 1)README.md
-# 🐼Pandas Notes
+## 🐼Pandas Notes
 
 This repository contains my **Pandas Jupyter Notebook notes**.  
 It covers basics to advanced topics with clear examples.

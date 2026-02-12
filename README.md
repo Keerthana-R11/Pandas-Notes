@@ -7,8 +7,6 @@
 This repository contains my **Pandas Jupyter Notebook notes**.  
 It covers basics to advanced topics with clear examples.
 
----
-
 ## 🚀 How to Use
 
 ### 🔹 View Online
